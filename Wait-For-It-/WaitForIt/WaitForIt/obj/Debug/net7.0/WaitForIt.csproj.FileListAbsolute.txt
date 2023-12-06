@@ -1,0 +1,15 @@
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/bin/Debug/net7.0/WaitForIt
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/bin/Debug/net7.0/WaitForIt.deps.json
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/bin/Debug/net7.0/WaitForIt.runtimeconfig.json
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/bin/Debug/net7.0/WaitForIt.dll
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/bin/Debug/net7.0/WaitForIt.pdb
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.csproj.AssemblyReference.cache
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.AssemblyInfoInputs.cache
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.AssemblyInfo.cs
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.csproj.CoreCompileInputs.cache
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.dll
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/refint/WaitForIt.dll
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.pdb
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/WaitForIt.genruntimeconfig.cache
+/Users/stevenbarker/Projects/Wait-For-It-/WaitForIt/WaitForIt/obj/Debug/net7.0/ref/WaitForIt.dll
